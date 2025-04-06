@@ -1,0 +1,16 @@
+﻿# Ignore build output
+bin/
+obj/
+*.user
+*.suo
+
+# Rider IDE
+.idea/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+.vscode/
