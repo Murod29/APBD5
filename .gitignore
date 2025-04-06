@@ -1,0 +1,14 @@
+# Build and debug
+bin/
+obj/
+*.user
+*.suo
+
+# Rider and VSCode settings
+.idea/
+.vscode/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
